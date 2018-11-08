@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Testing Readability with a Bunch of Text changed by Bahare"
+title: "Here is my test changed by Bahare"
 date: 2018-11-08
 excerpt: "A ton of text to test readability."
 tags: [sample post, readability, test]
